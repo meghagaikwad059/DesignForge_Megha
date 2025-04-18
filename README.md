@@ -47,7 +47,9 @@ Acts as a stopping cue between autoplay transitions while preserving control.
 
 3. Reinforcing positive content consumption habits without harming engagement
 
-🔗 Figma Link : https://www.figma.com/proto/OOZDee8np6UUBEQYAq6gxH/Design-Forge-hackathon?node-id=3-2&p=f&t=lVLhLlP6GsY2lHu4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
+🔗 Figma Link : https://www.figma.com/design/OOZDee8np6UUBEQYAq6gxH/Design-Forge-hackathon?node-id=0-1&t=VGY6IPBi43UOdeRq-1
+
+🔗 PrototypeLink : https://www.figma.com/proto/OOZDee8np6UUBEQYAq6gxH/Design-Forge-hackathon?node-id=3-2&p=f&t=lVLhLlP6GsY2lHu4-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2
 
 🎨 Download Figma File :
 [📥 Download Design Forge hackathon.fig](./Design%20Forge%20hackathon.fig)
