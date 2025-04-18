@@ -52,9 +52,10 @@ Acts as a stopping cue between autoplay transitions while preserving control.
 🎨 Download Figma File :
 [📥 Download Design Forge hackathon.fig](./Design%20Forge%20hackathon.fig)
 
-
 📷 Screenshots
-![Screenshot 2025-04-18 200430](https://github.com/user-attachments/assets/26a3d3e8-6377-443d-9b19-cb8e800c6012)
+![Screenshot 2025-04-18 222700](https://github.com/user-attachments/assets/898517c3-df58-4fb4-9bbf-4448cac50736)
+
+
 
 
 Thankyou!!!!
