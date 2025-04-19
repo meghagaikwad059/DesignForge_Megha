@@ -15,7 +15,7 @@ After reviewing YouTube’s existing mobile UI, I identified three key pain poin
 I designed a progressive, minimalistic flow using behavioral psychology principles — introducing soft nudges and interactive cues that feel native to YouTube’s visual language.
 
 🖌️ Solution Flow
-📌 Phase 1: Home Feed (0–20 mins)
+📌 Phase 1: Home Feed (0–25 mins)
 Added a thin progress bar subtly blinking above the video, indicating session time.
 
 Progressively filled with brand color cues while maintaining clean YouTube UI aesthetics.
@@ -23,20 +23,17 @@ Progressively filled with brand color cues while maintaining clean YouTube UI ae
 📌 Phase 2: Video Player (20–45 mins)
 After 25 minutes, the Like button transforms into a clock icon for 3 seconds.
 
-Tapping it opens a bottom sheet prompt:
-
-🎈 Take a Quick Break
-
-🔕 Continue Watching
-
-Includes an optional timer to auto-resume after 2 minutes.
-
-📌 Phase 3: Autoplay Interstitial (After 30 mins)
-Before the next video autoplays, a friendly modal appears:
-
-Encouraging a break
+Tapping it opens a bottom sheet prompt Encouraging a break :
 
 Options to ‘Take a Quick Break’, ‘Keep Watching’, or ‘Extend Break’
+
+Includes an optional timer to auto-resume after 2 minutes.
+(This Continues after interval of 25 - 45 minutes/ We can add personal settings to change this timing according to user's choice)
+
+📌 Phase 3: Autoplay Interstitial (Between interval of 2 videos)
+Before the next video autoplays, a friendly Text appears:
+To rest up your eyes!!
+
 
 Acts as a stopping cue between autoplay transitions while preserving control.
 
